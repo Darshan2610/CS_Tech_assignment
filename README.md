@@ -24,12 +24,12 @@ This MERN stack application manages agents and distributes customer lists among 
    PORT=5000
    ```
 
-4. Start the development server -> open to server folder path:
+4. Start the development server -> Go to server folder path:
    ```bash
    # Start backend server
    npm run server
 
-   # Start frontend development server
+   # Start frontend development server : -> Go to root directory and run:
    npm run dev
    ```
 
@@ -75,7 +75,7 @@ Note: I have added a functionality where the system check if an admin exist or n
 
 2. Create agents through the Agents page
 
-3. Upload CSV file through the Lists page
+3. Upload CSV file through the Lists page (I have also provided a sample test file of csv format for testing)
 
 4. View distributed lists in the Lists section
 
